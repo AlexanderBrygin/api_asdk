@@ -65,7 +65,7 @@ paths:
                     example: NEW
                   Success:
                     description: |
-                      Выполнение платежа
+                      Статус привязки карты
                     type: boolean
                     example: true
                   CardId:
